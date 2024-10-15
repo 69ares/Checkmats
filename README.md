@@ -17,26 +17,33 @@ Checkmats è uno strumento potente progettato per i giocatori di Fortnite per mo
 ### Segnali audio
 Fornisce segnali audio quando i tuoi materiali stanno per esaurirsi, permettendoti di concentrarti sul combattimento senza dover controllare costantemente il tuo inventario.
 
-| ![Home](https://github.com/69ares/Checkmats/raw/main/img/allarme.png) |
-|:--:|
-| **Segnali audio** |
+<p align="center">
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/allarme.png" alt="Segnali Audio" width="350"/>
+</p>
 
+**Segnali audio**
+
+---
 
 ### Supporto Tasti Rapidi
 Imposta un tasto rapido personalizzato per mettere in pausa/riprendere il monitoraggio senza dover uscire dal gioco.
 
-| ![Hotkeys](https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png) |
-|:--:|
-| **Tasti Rapidi Personalizzati** |
+<p align="center">
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png" alt="Tasti Rapidi Personalizzati" width="350"/>
+</p>
+
+**Tasti Rapidi Personalizzati**
 
 ---
 
 ### Supporto Multi-lingua
 Checkmats è disponibile in inglese e italiano.
 
-| ![Home](https://github.com/69ares/Checkmats/raw/main/img/start.png) |
-|:--:|
-| **Disponibile in Inglese e Italiano** |
+<p align="center">
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/start.png" alt="Supporto Multi-lingua" width="350"/>
+</p>
+
+**Disponibile in Inglese e Italiano**
 
 ---
 
@@ -53,9 +60,11 @@ Checkmats è disponibile in inglese e italiano.
    - 100-199 materiali: Quarto avviso
    - 0-99 materiali: Avviso finale (è ora di disimpegnarsi o raccogliere materiali!)
 
-| ![Start](https://github.com/69ares/Checkmats/raw/main/img/started.png) |
-|:--:|
-| **Inizio del Monitoraggio** |
+<p align="center">
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/started.png" alt="Avvio del Monitoraggio" width="350"/>
+</p>
+
+
 
 ## Installazione
 
