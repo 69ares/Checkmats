@@ -29,13 +29,13 @@ Checkmats è uno strumento potente progettato per i giocatori di Fortnite per mo
    - 100-199 materiali: Quarto avviso
    - 0-99 materiali: Avviso finale (è ora di disimpegnarsi o raccogliere materiali!)
 
-#Immagini
-<div style="text-align: center;">
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/start.png" alt="Alt text" width="400"/>
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png" alt="Alt text" width="400"/>
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/started.png" alt="Alt text" width="400"/>
-</div>
+## Immagini
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/start.png" alt="Home" width="200"/>
 
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png" alt="Hotkeys" width="200"/>
+  
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/started.png" alt="Start" width="200"/>
+  
 ## Installazione
 
 1. Scarica l'ultima versione dalla pagina [Releases](https://github.com/69ares/Checkmats/releases).
