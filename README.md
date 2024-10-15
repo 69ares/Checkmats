@@ -7,13 +7,20 @@ Checkmats è uno strumento potente progettato per i giocatori di Fortnite per mo
 </div>
 
 ## Caratteristiche
-
 - **Monitoraggio dei Materiali in Tempo Reale**: Scansiona continuamente un'area selezionata del tuo schermo per tenere traccia del conteggio dei tuoi materiali da costruzione.
-- **Avvisi Audio**: Fornisce segnali audio quando i tuoi materiali stanno per esaurirsi, permettendoti di concentrarti sul combattimento senza dover controllare costantemente il tuo inventario.
 - **Area di Scansione Personalizzabile**: Seleziona facilmente l'area del tuo schermo dove viene visualizzato il conteggio dei materiali.
 - **Intervallo di Scansione Regolabile**: Imposta la frequenza con cui l'applicazione controlla il conteggio dei tuoi materiali.
 - **Selezione CPU/GPU**: Scegli tra l'elaborazione CPU e GPU per prestazioni ottimali sul tuo sistema.
+
 ## Funzionalità Principali
+
+### Segnali audio
+Fornisce segnali audio quando i tuoi materiali stanno per esaurirsi, permettendoti di concentrarti sul combattimento senza dover controllare costantemente il tuo inventario.
+
+| ![Home](https://github.com/69ares/Checkmats/raw/main/img/allarme.png) |
+|:--:|
+| **Segnali audio** |
+
 
 ### Supporto Tasti Rapidi
 Imposta un tasto rapido personalizzato per mettere in pausa/riprendere il monitoraggio senza dover uscire dal gioco.
