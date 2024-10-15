@@ -3,6 +3,7 @@
 Checkmats è uno strumento potente progettato per i giocatori di Fortnite per monitorare i loro materiali da costruzione durante i combattimenti intensi. Quando sei troppo concentrato sull'azione per controllare il conteggio dei tuoi materiali, Checkmats ti copre le spalle!
 
 ![Alt text](https://github.com/69ares/Checkmats/raw/main/img/muroscalapavimento.jpg)
+<img src="https://github.com/69ares/Checkmats/raw/main/img/muroscalapavimento.jpg" alt="Alt text" width="400"/>
 
 
 ## Caratteristiche
