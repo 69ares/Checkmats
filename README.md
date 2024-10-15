@@ -14,7 +14,9 @@ Checkmats è uno strumento potente progettato per i giocatori di Fortnite per mo
 - **Intervallo di Scansione Regolabile**: Imposta la frequenza con cui l'applicazione controlla il conteggio dei tuoi materiali.
 - **Selezione CPU/GPU**: Scegli tra l'elaborazione CPU e GPU per prestazioni ottimali sul tuo sistema.
 - **Supporto Tasti Rapidi**: Imposta un tasto rapido personalizzato per mettere in pausa/riprendere il monitoraggio senza dover uscire dal gioco.
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png" alt="Hotkeys" width="300"/>
 - **Supporto Multi-lingua**: Disponibile in inglese e italiano.
+ <img src="https://github.com/69ares/Checkmats/raw/main/img/start.png" alt="Home" width="300"/>
 
 ## Come Funziona
 
@@ -29,15 +31,8 @@ Checkmats è uno strumento potente progettato per i giocatori di Fortnite per mo
    - 100-199 materiali: Quarto avviso
    - 0-99 materiali: Avviso finale (è ora di disimpegnarsi o raccogliere materiali!)
 
-## Immagini
-<div style="text-align: center;">
-
-ì<img src="https://github.com/69ares/Checkmats/raw/main/img/start.png" alt="Home" width="200"/>
-
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png" alt="Hotkeys" width="200"/>
-  
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/started.png" alt="Start" width="200"/>
-  </div>
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/started.png" alt="Start" width="400"/>
+ 
 
 ## Installazione
 
