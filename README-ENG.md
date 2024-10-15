@@ -2,6 +2,10 @@
 
 Checkmats is a powerful tool designed for Fortnite players to monitor their building materials during intense fights. When you're too focused on the action to check your material count, Checkmats has got your back!
 
+<div style="text-align: center;">
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/checkmats.png" alt="Alt text" width="400"/>
+</div>
+
 ## Features
 
 - **Real-time Material Monitoring**: Continuously scans a selected area of your screen to track your building material count.
