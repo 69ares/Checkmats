@@ -13,21 +13,23 @@ Checkmats è uno strumento potente progettato per i giocatori di Fortnite per mo
 - **Area di Scansione Personalizzabile**: Seleziona facilmente l'area del tuo schermo dove viene visualizzato il conteggio dei materiali.
 - **Intervallo di Scansione Regolabile**: Imposta la frequenza con cui l'applicazione controlla il conteggio dei tuoi materiali.
 - **Selezione CPU/GPU**: Scegli tra l'elaborazione CPU e GPU per prestazioni ottimali sul tuo sistema.
+## Funzionalità Principali
+
 ### Supporto Tasti Rapidi
 Imposta un tasto rapido personalizzato per mettere in pausa/riprendere il monitoraggio senza dover uscire dal gioco.
 
-<div style="text-align: center;">
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png" alt="Hotkeys" width="300"/>
-</div>
+| ![Hotkeys](https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png) |
+|:--:|
+| **Tasti Rapidi Personalizzati** |
 
 ---
 
 ### Supporto Multi-lingua
-Checkmats è disponibile in inglese e italiano per la tua comodità.
+Checkmats è disponibile in inglese e italiano.
 
-<div style="text-align: center;">
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/start.png" alt="Home" width="300"/>
-</div>
+| ![Home](https://github.com/69ares/Checkmats/raw/main/img/start.png) |
+|:--:|
+| **Disponibile in Inglese e Italiano** |
 
 ---
 
@@ -44,9 +46,9 @@ Checkmats è disponibile in inglese e italiano per la tua comodità.
    - 100-199 materiali: Quarto avviso
    - 0-99 materiali: Avviso finale (è ora di disimpegnarsi o raccogliere materiali!)
 
-<div style="text-align: center;">
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/started.png" alt="Start" width="400"/>
-</div>
+| ![Start](https://github.com/69ares/Checkmats/raw/main/img/started.png) |
+|:--:|
+| **Inizio del Monitoraggio** |
 
 ## Installazione
 
