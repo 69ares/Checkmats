@@ -2,8 +2,8 @@
 
 Checkmats è uno strumento potente progettato per i giocatori di Fortnite per monitorare i loro materiali da costruzione durante i combattimenti intensi. Quando sei troppo concentrato sull'azione per controllare il conteggio dei tuoi materiali, Checkmats ti copre le spalle!
 
-<div style="text-align: center;">
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/checkmats.png" alt="Alt text" width="400"/>
+<p align="center">
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/checkmats.png" alt="Alt text" width="250"/>
 </div>
 
 ## Caratteristiche
@@ -18,7 +18,7 @@ Checkmats è uno strumento potente progettato per i giocatori di Fortnite per mo
 Fornisce segnali audio quando i tuoi materiali stanno per esaurirsi, permettendoti di concentrarti sul combattimento senza dover controllare costantemente il tuo inventario.
 
 <p align="center">
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/allarme.png" alt="Segnali Audio" width="350"/>
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/allarme.png" alt="Segnali Audio" width="250"/>
 </p>
 
 **Segnali audio**
@@ -29,7 +29,7 @@ Fornisce segnali audio quando i tuoi materiali stanno per esaurirsi, permettendo
 Imposta un tasto rapido personalizzato per mettere in pausa/riprendere il monitoraggio senza dover uscire dal gioco.
 
 <p align="center">
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png" alt="Tasti Rapidi Personalizzati" width="350"/>
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png" alt="Tasti Rapidi Personalizzati" width="250"/>
 </p>
 
 **Tasti Rapidi Personalizzati**
@@ -40,7 +40,7 @@ Imposta un tasto rapido personalizzato per mettere in pausa/riprendere il monito
 Checkmats è disponibile in inglese e italiano.
 
 <p align="center">
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/start.png" alt="Supporto Multi-lingua" width="350"/>
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/start.png" alt="Supporto Multi-lingua" width="250"/>
 </p>
 
 **Disponibile in Inglese e Italiano**
@@ -58,10 +58,10 @@ Checkmats è disponibile in inglese e italiano.
    - 300-399 materiali: Secondo avviso
    - 200-299 materiali: Terzo avviso
    - 100-199 materiali: Quarto avviso
-   - 0-99 materiali: Avviso finale (è ora di disimpegnarsi o raccogliere materiali!)
+   - 0-99 materiali: Avviso finale (sei morto!)
 
 <p align="center">
-  <img src="https://github.com/69ares/Checkmats/raw/main/img/started.png" alt="Avvio del Monitoraggio" width="350"/>
+  <img src="https://github.com/69ares/Checkmats/raw/main/img/started.png" alt="Avvio del Monitoraggio" width="250"/>
 </p>
 
 
