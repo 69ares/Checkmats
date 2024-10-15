@@ -21,8 +21,6 @@ Fornisce segnali audio quando i tuoi materiali stanno per esaurirsi, permettendo
   <img src="https://github.com/69ares/Checkmats/raw/main/img/allarme.png" alt="Segnali Audio" width="250"/>
 </p>
 
-**Segnali audio**
-
 ---
 
 ### Supporto Tasti Rapidi
@@ -31,8 +29,6 @@ Imposta un tasto rapido personalizzato per mettere in pausa/riprendere il monito
 <p align="center">
   <img src="https://github.com/69ares/Checkmats/raw/main/img/hotkeys.png" alt="Tasti Rapidi Personalizzati" width="250"/>
 </p>
-
-**Tasti Rapidi Personalizzati**
 
 ---
 
@@ -43,7 +39,6 @@ Checkmats è disponibile in inglese e italiano.
   <img src="https://github.com/69ares/Checkmats/raw/main/img/start.png" alt="Supporto Multi-lingua" width="250"/>
 </p>
 
-**Disponibile in Inglese e Italiano**
 
 ---
 
@@ -59,6 +54,8 @@ Checkmats è disponibile in inglese e italiano.
    - 200-299 materiali: Terzo avviso
    - 100-199 materiali: Quarto avviso
    - 0-99 materiali: Avviso finale (sei morto!)
+  
+     
 
 <p align="center">
   <img src="https://github.com/69ares/Checkmats/raw/main/img/started.png" alt="Avvio del Monitoraggio" width="250"/>
